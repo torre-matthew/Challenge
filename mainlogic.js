@@ -53,8 +53,6 @@ let promptForFileName = () => {
 
 }
 
-
-
 //This function is reponsible for parsing through the array that stores the conflicts (reportArr) and displaying the results to the user.
 //it takes two params, an array that contains data to report to the user, and a number.
   let reportResults = (arr, conflictCount) => {
@@ -136,6 +134,6 @@ let checkForConflicts = (arr) => {
     });
   }
 
-
+// when program is first run, prompt user to enter a .csv file.
 promptForFileName();
 
