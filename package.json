@@ -1,0 +1,26 @@
+{
+  "name": "uvchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainlogic.js",
+  "dependencies": {
+    "convert-csv-to-array": "^1.0.3",
+    "fast-csv": "^2.4.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torre-matthew/uvChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torre-matthew/uvChallenge/issues"
+  },
+  "homepage": "https://github.com/torre-matthew/uvChallenge#readme"
+}
