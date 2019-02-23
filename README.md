@@ -1,4 +1,4 @@
-# uvChallenge
+# Challenge
 
 This program runs entirely on the command line. It will analyze time ranges provided in .csv file format and report back if there are time conflicts or input errors. It's build using the latest version of Node.js.
 
